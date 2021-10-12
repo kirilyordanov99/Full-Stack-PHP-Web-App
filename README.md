@@ -3,5 +3,5 @@
 #Has a basic authentication.
 #
 #To run the project just download it and run the migrations.
-Insall Composers
+Insall Composer
 Run php artisan serve in cmd 
